@@ -4,7 +4,7 @@ import { Container, Grid, Alert } from '@mui/material';
 import SearchBar from './components/SearchBar';
 import CurrentWeather from './components/CurrentWeather';
 import Navbar from './components/Navbar';
-import SignIn from './components/SignIn';
+// import SignIn from './components/SignIn';
 import Forecast from './components/Forecast';
 import TemperatureChart from './components/TemperatureChart';
 import RecentSearch from './components/RecentSearch';
